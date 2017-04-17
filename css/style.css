@@ -143,4 +143,8 @@ section#feedback {
 		/*float:left;*/
 		/*display: inline;*/
 	}
+
+	.hide {
+		display: none;
+	}
 }
