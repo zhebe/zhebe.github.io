@@ -115,7 +115,7 @@ section#feedback {
 
 
 .smartwatch {
-	width: 100%;
+	width: 60%;
 }
 
 .custom-btn:hover {
@@ -147,4 +147,9 @@ section#feedback {
 	.hide {
 		display: none;
 	}
+}
+
+
+section#form {
+	text-align: center;
 }
